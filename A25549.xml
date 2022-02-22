@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to a scoffing and lying lybell put forth and privately dispersed under the title of A wonderful account of the cureing the Kings-evil, by Madam Fanshaw, the Duke of Monmouth's sister</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25549</idno>
+            <idno type="STC">Wing A3347</idno>
+            <idno type="STC">ESTC R24706</idno>
+            <idno type="EEBO-CITATION">08444460</idno>
+            <idno type="OCLC">ocm 08444460</idno>
+            <idno type="VID">41319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to a scoffing and lying lybell put forth and privately dispersed under the title of A wonderful account of the cureing the Kings-evil, by Madam Fanshaw, the Duke of Monmouth's sister</title>
+               </titleStmt>
+               <extent>1 sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fanshawe, Mary. --  A wonderful account of the cureing the Kings-evil.</term>
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41319:1" rendition="simple:additions"/>
+            <head>An Anſwer to a Scoffing and Lying Lybell, <hi>Put forth and privately diſperſed under the Title of</hi> A Wonderful Account of the Cureing the <hi>Kings-Evil,</hi> by Madam <hi>Fanſhaw</hi> the Duke of <hi>Monmouth</hi>'s Siſter.</head>
+            <epigraph>
+               <q>
+                  <l>—Soepius clim</l>
+                  <l>Religio peperit ſceleroſa atque impia facta,</l>
+                  <bibl>
+                     <hi>Suerit.</hi> l. <hi>1.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <l>An ſi quis atro dente me petiverit</l>
+                  <l>Inultus ut flibo Puer?</l>
+                  <bibl>
+                     <hi>Hor. Ep. 6.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>IT is ſtill, and has been of old, the cunning Tricks of Wicked and evil Men for <hi>Religion</hi> ſake, to run into all manner of Wicked and impious actions, leaving no Stone unturned, that may any ways help to<g ref="char:EOLhyphen"/>wards the eſtabliſhment of their <hi>Diana.</hi> But as it has been the actions of ſuch, who only make Religion their ſtalking Horſe, for their profit and advantage, which is their true Goddeſs, ſo it is moſt eaſie to find out whence the many late and moſt inveterate Libells; which have been ſpread abroad privately, proceed: even from ſuch, who would make Godlineſs their gain, and care not what Idolatry is ſet up, ſo they may fill their Coffers: They care not whom they abuſe and belye, nor whom they defame and Libel, ſo they may gain their point, or advantage their Intereſt; but let ſuch know, that as the old pro<g ref="char:EOLhyphen"/>verb is, <hi>'Tis ill medling with edge Tools,</hi> and dan<g ref="char:EOLhyphen"/>gerous to defame a perſon of Honour, who may at ſome time or other, in all likelihood, have the power of Revenge. All the refuge theſe fort of perſons have, is the Blind under which they ſhelter themſelves, appearing only <hi>Incognito,</hi> or in <hi>Maſquerade,</hi> only to be known to their own party, and by ſuch ridiculous Libells as theſe, to fortifie the imbicillity of a ſtaggering Bro<g ref="char:EOLhyphen"/>ther, or to increaſe the malice of an inveterate Champion.</p>
+            <p>But however this moſt ſcandalous Libel, put out under the name of Madam <hi>Fanſhaw,</hi> and at<g ref="char:EOLhyphen"/>teſted by ſeveral perſons of Honour, goes as yet unpuniſhed, yet ſince as <hi>Solomon</hi> ſays, ſometimes <hi>Anſwer a Fool according to his Folly,</hi> ſo we will give ſome reply to a Knave or Knaves, accord<g ref="char:EOLhyphen"/>ing to his or their malice: And for this end we will conſider this Libel, with it adjuncts of time and perſons, who wrote it, the ſubſtance of the Libel it ſelf, and for what end it was ſpread a<g ref="char:EOLhyphen"/>broad.</p>
+            <p>As for the firſt, it is obſervable, that now more than ever, the <hi>Jeſuitical</hi> and popiſh party, are again very buſie and very malicious, having renewed their hopes, by reaſon of our ſad De<g ref="char:EOLhyphen"/>ſtractions; a time very convenient to put forth their Venomn, and which they ſeldome miſs to do upon very opportunity; a time wherein they believe their boldneſs for their cauſe may be ſhewed, and in which they may (after their u<g ref="char:EOLhyphen"/>ſual manner) Libel any body with impunity: a time of Trouble and Deſtraction to the whole Nation, and of ſeeming Diſgrace and diſplea<g ref="char:EOLhyphen"/>ſure to that moſt noble perſon they endeavour to abuſe: And laſtly, a time moſt fit for their purpoſe, to turn all things, whether real or feigned into Ridicule, and to ſet up Folly and Lyes ſo like to Truth, that the Vulgar can ſcarce ſee the one from the other.</p>
+            <p>As to the perſons in particular who Wrote this Libel, it were well they were known, that they might be branded, or left to the Indigna<g ref="char:EOLhyphen"/>tion of the people; but as they are ſhelter'd in the Croud, under the Vizard of Obſcurity, they may paſs unpuniſhed for the preſent, till ſome private Judgement, uſually the Reward of ma<g ref="char:EOLhyphen"/>lice, overtakes them: But as to the general, we may very confidently aver, that it is one of the Popiſh Faction, ſome <hi>Jeſuit,</hi> or hot ſpur Dukiſt, for they are hardly to be ſeperate; for you that have read the Libel, may perceive, that tho Li<g ref="char:EOLhyphen"/>beller tells you, with ſome Regret, That Ma<g ref="char:EOLhyphen"/>dam <hi>Fanſhaw</hi> is not a Papiſt, but Converted by her Husband to the Proteſtant Religion, which ſhews the Libeller or Libellers malice to her, for that reaſon, raiſing their malicious and Ri<g ref="char:EOLhyphen"/>diculous wonderful Narration, upon her name, tackt on with all the ſcoffs and jears imaginable.</p>
+            <p>As to the ſubſtance of the Libel it ſelf, it is a moſt ridiculous ſtory, with little Wit, and much Malice, invented of an Apple-Womans Son, Cured of the <hi>Kings Evil,</hi> by the ſtroak of Madam <hi>Fanſhaws</hi> Hand, in oppoſition of that, not long ſince publiſhed, of his Grace the Duke of <hi>Monmouth,</hi> her Brother, doing ſomething of that Nature. But as the ſtory, by the penning, and the Ridicule and Buffoonery that Attends it, ſhews it ſelf a meer Fable; ſo there is no <hi>need</hi> to ſay any thing further of it, but to paſs on to the laſt and main point to be conſidered, the end of this Story which is moſt plain.</p>
+            <p>And as to this we may conſider it Twofold: Firſt, as to the Advancement of the Common Cauſe, the ſecuring the Succeſſion to the D. and the bring in of Popery into <hi>England,</hi> the main end, the other the means to that end. Se<g ref="char:EOLhyphen"/>condly, As to the abuſe in particular, of His Grace the D. of <hi>Monmouth,</hi> becauſe a Proteſtant, and an obſtacle to the deſigns of the Libellers.</p>
+            <p>As to the firſt, it is moſt evident, That this Libel, with many others lately ſpread abroad, is for no other end than the Advancement of the Papiſtical Intereſt, and the promoting of the Horrid Plot, which ſeems by theſe their wicked indeavours, not as yet to have an end, or
+<pb facs="tcp:41319:2" rendition="simple:additions"/>elſe they would not ſtill go about with theſe Effronteries, to abuſe a perſon ſo innocent, and ſo conſiderable in the Eyes of all good Men, and loyal Subjects, as the <hi>Duke of Monmouth.</hi> This is the Common Cauſe, the Ruine <hi>of</hi> the Nati<g ref="char:EOLhyphen"/>on, by the overthrow <hi>of</hi> our Religion, and ſet<g ref="char:EOLhyphen"/>ting up <hi>Popery</hi> in its Room, and as the onely means to do this, their Hopes now chiefly relye on the <hi>D. of Y.</hi> being a Papiſt, and his ſuceed<g ref="char:EOLhyphen"/>ing to the Crown; therefore, they make uſe of all ways imaginable, no matter how unlawful, how ſcandalous to good manners, nor how con<g ref="char:EOLhyphen"/>trary to Morality or Civility, nay, to all <hi>Law</hi> and Government, ſo it may advance this Intereſt, which they ſo ſedulouſly endeavour to pro<g ref="char:EOLhyphen"/>mote, and by removing all Obſtacles, and De<g ref="char:EOLhyphen"/>faming all perſons, from the higheſt to the low<g ref="char:EOLhyphen"/>eſt, that ſtand in their way.</p>
+            <p>In the laſt place, as to the particular abuſe to the Duke of <hi>Monmouth,</hi> the end is like wiſe plain enough, only becauſe they judge him to be an Obſtacle, and that no ſmall one, to the <hi>D.</hi> ſucceeding to the Crown; For otherwiſe ma<g ref="char:EOLhyphen"/>lice it ſelf could not object any thing to this Noble perſon, that might give the leaſt occaſion of a Libel againſt him. But as <hi>Thales</hi> ſaid, being asked what was the moſt hurtful thing in the World, he anſwered <hi>Malice;</hi> for it hurts even the beſt things if it touches them: So I ſay, this Malicious and Invenomus Libel<g ref="char:EOLhyphen"/>ing, may do hurt to the cleareſt Innocency in the world, for there are many ſo Evil-natur'd and affected, that they greedily ſuck the poyſon from ſuch Venomous Weeds.</p>
+            <p>The Foundation on which this Libel is built, is the known printed Paper of the Dukes Cu<g ref="char:EOLhyphen"/>ring the <hi>King's-Evil,</hi> and leſt that in the Vul<g ref="char:EOLhyphen"/>gars eyes ſhould ſeem to give him any Title of claim to <hi>Legitimacy,</hi> and ſo to Succeſſion to the Crown of his Father (whom God preſerve to defeat all their hopes by a long Reign) they raiſed in oppoſition to that, this Story of his Siſter, Curing the Evil in a Man, as well as he in a Maid; upon which, the Libeller makes ma<g ref="char:EOLhyphen"/>ny Joking Diſcants, ſcoffing at the <hi>Proteſtant</hi> Religion, and the Dukes <hi>Legitimacy.</hi> And alſo concludes his Story, <hi>That the Duke alſo ſhortly intended to ſhut himſelf up with the Lyons in the Tower, to prove himſelf of Royal Race;</hi> with ſuch like abuſive and Scurrilous Wit and Drollery. All which, as it might be juſtly anſwered with Laughter and Scorn, ſo I ſhall make but a ſhort Reply.</p>
+            <q>Improbi Conſilium in extremum incidit Malum.</q>
+            <p>They think by this means to do the Noble Duke a prejudice, but it may in the end <hi>fall</hi> up<g ref="char:EOLhyphen"/>on their own heads. It is very well known, that the curing of the <hi>Struma,</hi> or filthy running ſores, called by us, the <hi>King's-Evil,</hi> from long cuſtom derived to our King, from <hi>Edw.</hi> the Confeſſor, in curing this Evil Diſeaſe by ſtroaking; is no ways a mark of a Right and Legitimate Succeſ<g ref="char:EOLhyphen"/>ſor, as the Libeller moſt ſillily would intimate, thereby intimating that the Duke of <hi>Monmouth</hi> was ſo ambitious, as to look and endeavour for the Crown (a thing they fear becauſe a <hi>Proteſt<g ref="char:EOLhyphen"/>ant</hi>) and this way to raiſe Jealouſies in his Roy<g ref="char:EOLhyphen"/>al fathers breaſt, and awaken his anger and diſ<g ref="char:EOLhyphen"/>pleaſure againſt him, as preſuming too much: This no doubt, the malice of the <hi>Libeller</hi> points at, and would thereby let the people ſee, that the Story of the D. of <hi>Monmouth's</hi> Curing the Evil, was made by the Proteſtant party, or by ſome of his Creatures, only to make him look'd on as a lawful Succeſſor, and <hi>Legitimate,</hi> by rea<g ref="char:EOLhyphen"/>ſon of the curing the Evil, and this they would overthrow by this Rediculous ſtory of their <hi>Li<g ref="char:EOLhyphen"/>bel.</hi> I am apt to believe, whoever he was that writ the <hi>Libel,</hi> had alſo ſome ſinger in the <hi>Black Box,</hi> which he cannot forbear to mention. But as I have ſaid, 'twas a weak and moſt Redicu<g ref="char:EOLhyphen"/>lous thing in the Duke of <hi>Monmouth's</hi> Creatures to raiſe ſuch a ſtory of the Dukes Curing the Evil, to prove his <hi>Legitimacy</hi> lawful, and ſo heir to the Crown, for it is not Intail'd to the Heir, but to the Crown it ſelf, and tho' thoſe who were no right Heirs to the Crown, once in poſ<g ref="char:EOLhyphen"/>ſeſſion of the Crown, poſſeſſed the ſame Gift.</p>
+            <p>But what if this ſtory of the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth's</hi> Curing the Evil be true, is it ſo ſtrange a thing, when we ſee it done by every Seventh Son, who at leaſt pretend to it, and therefore if he did Cure it, or ſhould again Cure it, that might better prove he was a Seventh Son, then <hi>Legitimate</hi> or Heir to the Crown. But we know that Phyſitians who give Natural cauſes to things that ſeem Supernatural to the Vulgar, do attribute the Cauſe more to the parties Ima<g ref="char:EOLhyphen"/>gination, than to the Virtue of the Touch, and how far the power of Imagination has wrought upon a perſon, hath been ſeen in far greater mi<g ref="char:EOLhyphen"/>racles than curing a running Sore; ſo that there is no marvel or wonder, if a Maid ſo ſtrongly poſſeſt by the power of her Imagination, ſhould grow well by the Touch of the Dukes hand, and might very well paſs without this Libellers ma<g ref="char:EOLhyphen"/>licious and Defamitory ſtory, in rediculing the Action, and ſcoffing at the perſon of this moſt Noble Peer.</p>
+            <p>But as the <hi>Libeller</hi> Concludes with a Wiſh, That he <hi>Lyon</hi> will Crown the Duke of <hi>Mon<g ref="char:EOLhyphen"/>mouth</hi> with his Imperial Paw, that way declaring the lawful Succeſſor, by removing the worſt <hi>King's-Evil</hi> out of the way; ſo I ſhall conclude, That I wiſh this braying Aſs, Inveloped in a <hi>Lyon</hi> Skin, may according to the <hi>Fable</hi> in <hi>AE<g ref="char:EOLhyphen"/>ſop,</hi> be found out and well beaten, for endea<g ref="char:EOLhyphen"/>vouring to affright and diſturb others under his <hi>Lyoniſh</hi> Maſquerade.</p>
+            <epigraph>
+               <q>
+                  <hi>Aſinus Aſino pulcherriuius.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. B.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
